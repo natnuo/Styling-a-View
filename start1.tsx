@@ -23,7 +23,9 @@ const styles = StyleSheet.create({
     height: 500,
     width: 500,
     borderWidth: 4,
-    borderColor: "black"
+    borderColor: "black",
+    
+    // ADD YOUR CODE HERE
   },
   square: {
     width: 100,
